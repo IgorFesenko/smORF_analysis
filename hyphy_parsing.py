@@ -1,15 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Parsing of json files from HyPhy (busted)
+# Parsing of json files from HyPhy (busted method)
 
 import json
 import os
 import pandas as pd
  
-
-file_json = '/Users/igorfesenko/pal2nal_tables/tmp_fasta/mafft_align/NUCL_sORF_23229.phy.BUSTED.json'
-
 
 if __name__ == "__main__":
 
