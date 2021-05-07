@@ -1,4 +1,4 @@
-#!/Users/igorfesenko/anaconda3/bin/python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
 Creating two fasta from PAL2NAL output
