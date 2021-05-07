@@ -17,8 +17,8 @@ from Bio import SeqIO
 if __name__ == "__main__":
    
     unixOptions = "f:i:"  
-    gnuOptions = ["file=","id="] # table with sequences; species
-    # arguments
+    gnuOptions = ["file=","id="]
+    # Получаем строку входных параметров
     fullCmdArguments = sys.argv
     argumentList = fullCmdArguments[1:]
 
