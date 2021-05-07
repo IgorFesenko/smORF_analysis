@@ -1,4 +1,4 @@
-#!/Users/igorfesenko/anaconda3/bin/python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
 Running PAL2NAL
@@ -18,7 +18,7 @@ if __name__ == "__main__":
    
     unixOptions = "f:i:"  
     gnuOptions = ["file=","id="]
-    # Получаем строку входных параметров
+    
     fullCmdArguments = sys.argv
     argumentList = fullCmdArguments[1:]
 
