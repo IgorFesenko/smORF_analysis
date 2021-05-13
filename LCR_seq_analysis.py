@@ -1,10 +1,10 @@
 """
-Модуль анализа последовательностей LCR
+LCR analysis
 """
 
 from collections import Counter
 
-# считаем представленность аминокислот
+# examples
 lcr = "GVGGVPGEVDGVTLGVVGVKMGVGGGGELKVVGLGGIISGGGGGSEAGADGGEDEDAD"
 lcr2 = "GVGGVPGEVDGMGVGGGGESGGGGGSEAGADGGEDEDAD"
 lcr3 = "GVSRSRSR"
